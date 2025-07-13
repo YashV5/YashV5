@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YashV5
-- 👀 I’m interested in pyhton,full-stack
-- 🌱 I’m currently learning Bootstrap.
+- 👀 I’m interested in pyhton, web developement
 - 
 <!---
 YashV5/YashV5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
